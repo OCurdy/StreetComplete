@@ -677,7 +677,7 @@ Sinon, vous pouvez télécharger un autre clavier dans l’app store. Les clavie
     <string name="quest_leaf_type_mixed">"Les deux sont présents"</string>
     <string name="quest_cyclewayPartSurface_title">"Quel est le revêtement de la piste cyclable ici ?"</string>
     <string name="quest_generic_answer_differs_along_the_way">"Cela varie en cours de route"</string>
-    <string name="quest_split_way_description">"S’il varie en cours de route, la première étape consiste à découper la piste en plusieurs tronçons. Ensuite, il est possible de répondre à la quête séparément pour chaque tronçon. 
+    <string name="quest_split_way_description">"S’il varie en cours de route, la première étape consiste à découper la piste en plusieurs tronçons. Ensuite, il est possible de répondre à la quête séparément pour chaque tronçon.
 Découper maintenant ?"</string>
 
     <!-- Fuzzy -->
@@ -757,7 +757,7 @@ Découper maintenant ?"</string>
     <!-- "StreetComplete permet de contribuer facilement à OpenStreetMap." ? -->
     <string name="tutorial_intro">"StreetComplete permet de contribuer facilement à OpenStreetMap.
 L’application recherche automatiquement les détails manquants autour de vous : pistes cyclables, numéros de rue, horaires d’ouverture et plus encore…"</string>
-    <string name="tutorial_solving_quests">"Une fois trouvés, ces détails manquants apparaîtront sur la carte sous forme de quêtes. 
+    <string name="tutorial_solving_quests">"Une fois trouvés, ces détails manquants apparaîtront sur la carte sous forme de quêtes.
 
 Vous pouvez d’ores et déjà commencer à les résoudre, mais vous devrez vous connecter pour que vos réponses soient publiées."</string>
 
@@ -1445,4 +1445,19 @@ sorted alphabetically by title -->
     <string name="quest_air_pump_bicycle_title">"Est-ce qu’une pompe à vélo fonctionnelle est disponible pour tout le monde ici ?"</string>
     <string name="quest_air_pump_compressor_title">"Est-ce qu’un compresseur à air est disponible ici ?"</string>
     <string name="quest_step_count_stile_hint">"Seulement le nombre de marches pour atteindre le sommet. Si le nombre de marches diffère entre les côtés, donnez le plus grand nombre."</string>
+    <string name="quest_facade_title">"Quel est le matériau de la façade du bâtiment (couche extérieure du bâtiment)?"</string>
+    <string name="quest_facade_value_cement_block">"Blocs de béton"</string>
+    <string name="quest_facade_value_brick">"Briques"</string>
+    <string name="quest_facade_value_plaster">"Plâtre"</string>
+    <string name="quest_facade_value_stone">"Pierres"</string>
+    <string name="quest_facade_value_mud">"Terre"</string>
+    <string name="quest_facade_value_concrete">"Béton"</string>
+    <string name="quest_color_title">"De quelle couleur est la façade du bâtiment (couche extérieure du mur)?"</string>
+    <string name="quest_facade_value_wood">"Bois"</string>
+    <string name="quest_facade_value_metal">"Métal"</string>
+    <string name="quest_facade_value_glass">"Vitre"</string>
+    <string name="quest_buildingColor_answer_multiple_color">"Il a plusieurs couleurs"</string>
+    <string name="quest_building_answer_multiple_color_description">"Il suffit de sélectionner la couleur principale de la façade du bâtiment"</string>
+    <string name="quest_buildingFacade_answer_multiple_material">"Il a plusieurs matériaux"</string>
+    <string name="quest_buildingFacade_answer_multiple_material_description">"Il suffit de sélectionner le matériau principal de la façade du bâtiment. Ex. si les murs du bâtiment sont faits de blocs de ciment, plâtrés et peints, la réponse appropriée serait plâtre."</string>
 </resources>

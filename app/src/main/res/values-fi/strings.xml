@@ -228,9 +228,9 @@ Kuten mainittu, sovellus on suoraan yhteydessä OSM järjestelmään. Joka tapau
     <string name="store_listing_short_description">"OpenStreetMap maanmittaussovellus"</string>
 
     <!-- Fuzzy -->
-    <string name="store_listing_full_description">"Auta parantamaan OpenStreetMapia StreetCompletella! Voit näin osallistua vapaan kartan kehittämiseen helposti. 
+    <string name="store_listing_full_description">"Auta parantamaan OpenStreetMapia StreetCompletella! Voit näin osallistua vapaan kartan kehittämiseen helposti.
 
-Sovelluksella löydät puuttuvia ja täydennettäviä tietoja lähiympäristöstäsi. Sovellus näyttää puuttuvat tiedot karttamerkkeinä, ja esittää niistä yksinkertaisesti ratkaistavia kysymyksiä.  
+Sovelluksella löydät puuttuvia ja täydennettäviä tietoja lähiympäristöstäsi. Sovellus näyttää puuttuvat tiedot karttamerkkeinä, ja esittää niistä yksinkertaisesti ratkaistavia kysymyksiä.
 
 Vastauksesi täydentävät OpenStreetMapsiä omalla nimelläsi. Et tarvi sovelluksen lisäksi erillistä OpenStreetMaps editoria."</string>
     <string name="quest_name_answer_noName">"Sillä ei ole nimeä…"</string>
@@ -705,7 +705,7 @@ Muutoin, voit ladata toisen näppäimistön sovelluskaupasta. Suosittuja näppä
     <string name="quest_streetName_answer_noName_noname">"Ei mikään näistä, sillä ei yksinkertaisesti ole nimeä"</string>
 
     <!-- Fuzzy -->
-    <string name="quest_wheelchairAccess_description_toilets">"Tämmöinen merkki voi olla näkyvissä, jos vessaan pääsee pyörätuolilla. 
+    <string name="quest_wheelchairAccess_description_toilets">"Tämmöinen merkki voi olla näkyvissä, jos vessaan pääsee pyörätuolilla.
      Kyseisessä WC:ssä ei kuitenkaan välttämättä ole apuvälineita, kuten apurautoja, laskettavaa allasta tms."</string>
     <string name="map_btn_create_note">"Luo uusi ilmoitus"</string>
 
@@ -1347,7 +1347,7 @@ Jaetaanko nyt?"</string>
     <string name="tutorial_welcome_to_osm_subtitle">"vapaaseen wiki-maailmankarttaan"</string>
 
     <!-- Fuzzy -->
-    <string name="tutorial_intro">"StreetComplete on helppo tapa täydentää OpenStreetMap:iä. 
+    <string name="tutorial_intro">"StreetComplete on helppo tapa täydentää OpenStreetMap:iä.
 Se etsii automaattisesti puuttuvia yksityiskohtia alueeltasi: pyöräkaistoja, talonumeroita, aukioloaikoja ja paljon muuta.."</string>
 
     <!-- Fuzzy -->
@@ -1617,7 +1617,7 @@ Lopulta, muista turvallisuus: huomio ympäristösi ja älä mene yksityisalueill
 sijoitus"</string>
     <string name="user_profile_local_rank">"%s-
 sijoitus"</string>
-    <string name="user_profile_days_active">"Aktiivisia 
+    <string name="user_profile_days_active">"Aktiivisia
 päiviä"</string>
 
     <!-- Fuzzy -->
@@ -2070,4 +2070,19 @@ Vaihtoehtoisesti voit jättää muistiinpanon (kuvan kanssa)."</string>
     <string name="ar_core_tracking_error_excessive_motion">"Liikaa liikettä"</string>
     <string name="ar_core_tracking_error_insufficient_features">"Tässä ei ole tarpeeksi visuaalisia ominaisuuksia"</string>
     <string name="ar_core_tracking_error_camera_unavailable">"Toinen sovellus käyttää kameraa"</string>
+    <string name="quest_facade_title">What is the material of the building facade?</string>
+    <string name="quest_facade_value_cement_block">Cement blocks</string>
+    <string name="quest_facade_value_brick">Bricks</string>
+    <string name="quest_facade_value_plaster">Plaster</string>
+    <string name="quest_facade_value_stone">Stones</string>
+    <string name="quest_facade_value_mud">Dried mud</string>
+    <string name="quest_facade_value_concrete">Concrete</string>
+    <string name="quest_color_title">What is the colour of the building facade?</string>
+    <string name="quest_facade_value_wood">Wood</string>
+    <string name="quest_facade_value_metal">Metal</string>
+    <string name="quest_facade_value_glass">Glass</string>
+    <string name="quest_buildingColor_answer_multiple_color">It has multiple colours</string>
+    <string name="quest_building_answer_multiple_color_description">Simply select the main colour of this building facade</string>
+    <string name="quest_buildingFacade_answer_multiple_material">It has multiple material</string>
+    <string name="quest_buildingFacade_answer_multiple_material_description">Simply select the main material of this building façade. E.g.  if the walls of a building are made of cement blocks, plastered and painted, then the appropriate answer would be plaster</string>
 </resources>

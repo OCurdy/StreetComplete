@@ -2602,4 +2602,19 @@ sorted alphabetically by title -->
     <string name="quest_air_pump_bicycle_title">"这里有一个能用的自行车打气筒供任何人使用吗？"</string>
     <string name="quest_air_pump_compressor_title">"这里有空气压缩机可用吗？"</string>
     <string name="quest_step_count_stile_hint">"只是到达顶部的步数。如果两边的步数不一样，就填更高的步数。"</string>
+    <string name="quest_facade_title">"建筑立面（墙的外层）的材料是什么？"</string>
+    <string name="quest_facade_value_cement_block">"水泥块"</string>
+    <string name="quest_facade_value_brick">"砖块"</string>
+    <string name="quest_facade_value_plaster">"石膏"</string>
+    <string name="quest_facade_value_stone">"石头"</string>
+    <string name="quest_facade_value_mud">"干泥"</string>
+    <string name="quest_facade_value_concrete">"混凝土"</string>
+    <string name="quest_color_title">"建筑立面（墙的外层）的颜色是什么？"</string>
+    <string name="quest_facade_value_wood">"木头"</string>
+    <string name="quest_facade_value_metal">"金属"</string>
+    <string name="quest_facade_value_glass">"玻璃"</string>
+    <string name="quest_buildingColor_answer_multiple_color">"它有很多种颜色"</string>
+    <string name="quest_building_answer_multiple_color_description">"只需选择这个建筑立面的主色调"</string>
+    <string name="quest_buildingFacade_answer_multiple_material">"它有很多种材料"</string>
+    <string name="quest_buildingFacade_answer_multiple_material_description">"只需选择这个建筑立面的主要材料。 例如。 如果建筑物的墙壁是由水泥砖块制成的，灰泥和油漆，那么合适的答案就是灰泥"</string>
 </resources>

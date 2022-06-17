@@ -2056,4 +2056,19 @@ Pastebėtina, kad ši aplikacija klausia namo numerio tik po to, kai nustatytas 
 
     <!-- Quest selection screen -->
     <string name="action_search">"Ieškoti"</string>
+    <string name="quest_facade_title">What is the material of the building facade?</string>
+    <string name="quest_facade_value_cement_block">Cement blocks</string>
+    <string name="quest_facade_value_brick">Bricks</string>
+    <string name="quest_facade_value_plaster">Plaster</string>
+    <string name="quest_facade_value_stone">Stones</string>
+    <string name="quest_facade_value_mud">Dried mud</string>
+    <string name="quest_facade_value_concrete">Concrete</string>
+    <string name="quest_color_title">What is the colour of the building facade?</string>
+    <string name="quest_facade_value_wood">Wood</string>
+    <string name="quest_facade_value_metal">Metal</string>
+    <string name="quest_facade_value_glass">Glass</string>
+    <string name="quest_buildingColor_answer_multiple_color">"Ha diversi colori"</string>
+    <string name="quest_building_answer_multiple_color_description">"Seleziona solamente il colore principale della facciata di questo edificio"</string>
+    <string name="quest_buildingFacade_answer_multiple_material">"Ha diversi materiali"</string>
+    <string name="quest_buildingFacade_answer_multiple_material_description">"Seleziona solamente il materiale principale della facciata di questo edificio. Es. se le pareti dell'edificio sono fatte di blocchi di cemento, intonacati e pitturati, la risposta corretta sarà intonaco."</string>
 </resources>

@@ -1163,4 +1163,19 @@ sorted alphabetically by title -->
     <string name="quest_openingHours_resurvey_title">"هل ساعات العمل المذكورة ما زالت صحيحة?"</string>
     <string name="quest_placeName_title">"ماهو اسم هذا المكان ?"</string>
     <string name="quest_smoking_title2">"هل التدخين مسموح هنا ?"</string>
+    <string name="quest_facade_title">"ما هي مادة واجهة المبنى (الطبقة الخارجية للجدار)؟"</string>
+    <string name="quest_facade_value_cement_block">"طوب إسمنتي"</string>
+    <string name="quest_facade_value_brick">"طوب"</string>
+    <string name="quest_facade_value_plaster">"لياسة"</string>
+    <string name="quest_facade_value_stone">"أحجار"</string>
+    <string name="quest_facade_value_mud">"الطين المجفف"</string>
+    <string name="quest_facade_value_concrete">"خرسانة"</string>
+    <string name="quest_color_title">"ما لون واجهة المبنى (الطبقة الخارجية للجدار)؟"</string>
+    <string name="quest_facade_value_wood">"خشب"</string>
+    <string name="quest_facade_value_metal">"معدن"</string>
+    <string name="quest_facade_value_glass">"زجاج"</string>
+    <string name="quest_buildingColor_answer_multiple_color">"لها ألوان متعددة"</string>
+    <string name="quest_building_answer_multiple_color_description">"اختر ببساطة اللون الرئيسي لواجهة المبنى"</string>
+    <string name="quest_buildingFacade_answer_multiple_material">"لها مواد متعددة"</string>
+    <string name="quest_buildingFacade_answer_multiple_material_description">"اختر ببساطة المادة الرئيسية لواجهة المبنى. على سبيل المثال إذا كانت جدران المبنى مصنوعة من كتل إسمنتية ، ملطّخة ومطلية ، فإن الجواب المناسب هو الجبس."</string>
 </resources>

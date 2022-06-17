@@ -2332,4 +2332,19 @@ sorted alphabetically by title -->
     <string name="quest_air_pump_bicycle_title">"Existe uma bomba de bicicleta disponível para todos aqui?"</string>
     <string name="quest_air_pump_compressor_title">"Existe um compressor de ar disponível aqui?"</string>
     <string name="quest_step_count_stile_hint">"Apenas o número de passos para chegar ao topo. Se a contagem de passos for diferente em cada lado, dê um número maior."</string>
+    <string name="quest_facade_title">"Qual é o material da fachada do edifício (camada externa da parede)?"</string>
+    <string name="quest_facade_value_cement_block">"Blocos de cimento"</string>
+    <string name="quest_facade_value_brick">"Tijolos"</string>
+    <string name="quest_facade_value_plaster">"Gesso"</string>
+    <string name="quest_facade_value_stone">"Pedras"</string>
+    <string name="quest_facade_value_mud">"Barro seco"</string>
+    <string name="quest_facade_value_concrete">"Betão"</string>
+    <string name="quest_color_title">"Qual é a cor da fachada do edifício (camada externa da parede)?"</string>
+    <string name="quest_facade_value_wood">"Madeira"</string>
+    <string name="quest_facade_value_metal">"Metal"</string>
+    <string name="quest_facade_value_glass">"Vidro"</string>
+    <string name="quest_buildingColor_answer_multiple_color">It has multiple colours</string>
+    <string name="quest_building_answer_multiple_color_description">Simply select the main colour of this building facade</string>
+    <string name="quest_buildingFacade_answer_multiple_material">It has multiple material</string>
+    <string name="quest_buildingFacade_answer_multiple_material_description">Simply select the main material of this building façade. E.g.  if the walls of a building are made of cement blocks, plastered and painted, then the appropriate answer would be plaster</string>
 </resources>

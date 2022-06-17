@@ -1600,4 +1600,19 @@ sorted alphabetically by title -->
     <string name="quest_toiletAvailability_title">"¿Hay algún servicio/baño aquí?"</string>
     <string name="quest_wheelchairAccess_toiletsPart_title2">"¿El servicio/baño de este lugar es accesible para sillas de ruedas?"</string>
     <string name="quest_cycleway_confirmation_oneway_for_cyclists_too">"¿Estás seguro de que los ciclistas no pueden usar esta calle de sentido único en ambas direcciones? En caso de duda, compruebe si hay un cartel al final de la calle."</string>
+    <string name="quest_facade_title">"¿Cuál es el material de la fachada del edificio (capa externa de la pared)?"</string>
+    <string name="quest_facade_value_cement_block">"Bloques de hormigón"</string>
+    <string name="quest_facade_value_brick">"Ladrillos"</string>
+    <string name="quest_facade_value_plaster">"Yeso"</string>
+    <string name="quest_facade_value_stone">"Piedras"</string>
+    <string name="quest_facade_value_mud">"Barro seco"</string>
+    <string name="quest_facade_value_concrete">"Concreto"</string>
+    <string name="quest_color_title">"¿Cuál es el color de la fachada del edificio (capa externa de la pared)?"</string>
+    <string name="quest_facade_value_wood">"Madera"</string>
+    <string name="quest_facade_value_metal">"Metal"</string>
+    <string name="quest_facade_value_glass">"Vidrio"</string>
+    <string name="quest_buildingColor_answer_multiple_color">"Tiene varios colores"</string>
+    <string name="quest_building_answer_multiple_color_description">"Elige el color principal de la fachada del edificio"</string>
+    <string name="quest_buildingFacade_answer_multiple_material">"Tiene varios materiales"</string>
+    <string name="quest_buildingFacade_answer_multiple_material_description">"Elige el color principal de la fachada del edificio. Ej. si las paredes de un edificio están hechas de bloques de cemento, enyesadas y pintadas, entonces la respuesta adecuada sería yeso."</string>
 </resources>

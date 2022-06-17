@@ -130,7 +130,7 @@ Informacja o Twoim położeniu jest używana tylko do automatycznego szukania za
 
 &lt;p&gt;&lt;b&gt;Użycie danych&lt;/b&gt;&lt;/p&gt;
 &lt;p&gt;
-Jak wspomniano, aplikacja komunikuje się bezpośrednio z infrastrukturą OSM. 
+Jak wspomniano, aplikacja komunikuje się bezpośrednio z infrastrukturą OSM.
 Niemniej przed każdym wysłaniem zmian aplikacja sprawdza &lt;a href=\"https://www.westnordost.de/streetcomplete/banned_versions.txt\"&gt;prosty plik tekstowy&lt;/a&gt; na moim serwerze, czy nie zabroniono jej wysyłania jakichkolwiek zmian. To zabezpieczenie pozwala wyłączać przestarzałe wersje aplikacji, w których znaleziono krytyczne błędy, mogące uszkodzić dane OSM.&lt;br/&gt;
 &lt;/p&gt;
 "</string>
@@ -1942,4 +1942,19 @@ sorted alphabetically by title -->
     <string name="quest_air_pump_bicycle_title">"Czy jest tu działająca pompka rowerowa dostępna dla każdego?"</string>
     <string name="quest_air_pump_compressor_title">"Czy jest tutaj dostępny kompresor?"</string>
     <string name="quest_step_count_stile_hint">"Tylko liczba kroków, aby dotrzeć na szczyt. Jeśli liczba kroków różni się z każdej strony, podaj wyższą liczbę."</string>
+    <string name="quest_facade_title">What is the material of the building facade?</string>
+    <string name="quest_facade_value_cement_block">Cement blocks</string>
+    <string name="quest_facade_value_brick">Bricks</string>
+    <string name="quest_facade_value_plaster">Plaster</string>
+    <string name="quest_facade_value_stone">Stones</string>
+    <string name="quest_facade_value_mud">Dried mud</string>
+    <string name="quest_facade_value_concrete">Concrete</string>
+    <string name="quest_color_title">What is the colour of the building facade?</string>
+    <string name="quest_facade_value_wood">Wood</string>
+    <string name="quest_facade_value_metal">Metal</string>
+    <string name="quest_facade_value_glass">Glass</string>
+    <string name="quest_buildingColor_answer_multiple_color">It has multiple colours</string>
+    <string name="quest_building_answer_multiple_color_description">Simply select the main colour of this building facade</string>
+    <string name="quest_buildingFacade_answer_multiple_material">It has multiple material</string>
+    <string name="quest_buildingFacade_answer_multiple_material_description">Simply select the main material of this building façade. E.g.  if the walls of a building are made of cement blocks, plastered and painted, then the appropriate answer would be plaster</string>
 </resources>

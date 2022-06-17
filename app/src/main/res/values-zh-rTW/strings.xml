@@ -2187,4 +2187,19 @@
     <string name="ar_core_tracking_error_excessive_motion">"太多晃動了"</string>
     <string name="ar_core_tracking_error_insufficient_features">"這裡沒有足夠的視覺圖徵"</string>
     <string name="ar_core_tracking_error_camera_unavailable">"其他 app 已經使用鏡頭了"</string>
+    <string name="quest_facade_title">"建筑立面（墙的外层）的材料是什么？"</string>
+    <string name="quest_facade_value_cement_block">"水泥块"</string>
+    <string name="quest_facade_value_brick">"砖块"</string>
+    <string name="quest_facade_value_plaster">"石膏"</string>
+    <string name="quest_facade_value_stone">"石头"</string>
+    <string name="quest_facade_value_mud">"干泥"</string>
+    <string name="quest_facade_value_concrete">"具体的"</string>
+    <string name="quest_color_title">"建筑立面（墙的外层）的颜色是什么？"</string>
+    <string name="quest_facade_value_wood">"木头"</string>
+    <string name="quest_facade_value_metal">"金属"</string>
+    <string name="quest_facade_value_glass">"玻璃"</string>
+    <string name="quest_buildingColor_answer_multiple_color">It has multiple colours</string>
+    <string name="quest_building_answer_multiple_color_description">Simply select the main colour of this building facade</string>
+    <string name="quest_buildingFacade_answer_multiple_material">It has multiple material</string>
+    <string name="quest_buildingFacade_answer_multiple_material_description">Simply select the main material of this building façade. E.g.  if the walls of a building are made of cement blocks, plastered and painted, then the appropriate answer would be plaster</string>
 </resources>

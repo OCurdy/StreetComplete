@@ -1400,4 +1400,19 @@ sorted alphabetically by title -->
     <string name="quest_toiletAvailability_title">"Ací hi ha bany?"</string>
     <string name="quest_wheelchairAccess_toiletsPart_title2">"El bany d'ací és accessible per a cadires de rodes?"</string>
     <string name="quest_cycleway_confirmation_oneway_for_cyclists_too">"Estàs segur que els ciclistes no poden utilitzar els dos sentits d'aquest carrer unidireccional? En cas de dubte, mira si hi ha algun senyal al final del carrer."</string>
+    <string name="quest_facade_title">"Quin és el material de la façana de l'edifici (capa externa de la paret)?"</string>
+    <string name="quest_facade_value_cement_block">"Blocs de formigó"</string>
+    <string name="quest_facade_value_brick">"Maons"</string>
+    <string name="quest_facade_value_plaster">"Guix"</string>
+    <string name="quest_facade_value_stone">"Pedres"</string>
+    <string name="quest_facade_value_mud">"Fang sec"</string>
+    <string name="quest_facade_value_concrete">"Concret"</string>
+    <string name="quest_color_title">"Quin és el color de la façana de l'edifici (capa externa de la paret)?"</string>
+    <string name="quest_facade_value_wood">"Fusta"</string>
+    <string name="quest_facade_value_metal">"Metall"</string>
+    <string name="quest_facade_value_glass">"Vidre"</string>
+    <string name="quest_buildingColor_answer_multiple_color">"Té diversos colors"</string>
+    <string name="quest_building_answer_multiple_color_description">"Tria el color principal de la façana de l'edifici"</string>
+    <string name="quest_buildingFacade_answer_multiple_material">"Té diversos materials"</string>
+    <string name="quest_buildingFacade_answer_multiple_material_description">"Tria el color principal de la façana de l'edifici. Ex. si les parets d'un edifici estan fetes de blocs de ciment, enguixades i pintades, llavors la resposta adequada seria guix."</string>
 </resources>

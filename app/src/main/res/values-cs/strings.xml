@@ -197,7 +197,7 @@ OpenStreetMap nelze upravovat anonymně, proto jsou všechny vaše změny proved
 
 &lt;b&gt;Poloha&lt;/b&gt;&lt;br/&gt;
 &lt;p&gt;
-Aplikace s nikým nesdílí vaši GPS polohu. Vaše poloha se používá jen pro automatické vyhledávání „úkolů“ ve vašem okolí a pro vycentrování mapy (a její stahování) na základě vaší polohy. 
+Aplikace s nikým nesdílí vaši GPS polohu. Vaše poloha se používá jen pro automatické vyhledávání „úkolů“ ve vašem okolí a pro vycentrování mapy (a její stahování) na základě vaší polohy.
 &lt;/p&gt;
 
 &lt;p&gt;&lt;b&gt;Použití dat&lt;/b&gt;&lt;/p&gt;
@@ -1853,7 +1853,7 @@ Pamatujte, že tato aplikace se zeptá na číslo budovy až po určení jejího
     <!-- Fuzzy -->
     <string name="achievement_blind_title">"Šestý smysl"</string>
 
-    <!-- Is there way to write plurals correctly? In Czech language we have two groups of plurals for amount 2-4 and 5,6,7 etc... Other languages have different rules. 
+    <!-- Is there way to write plurals correctly? In Czech language we have two groups of plurals for amount 2-4 and 5,6,7 etc... Other languages have different rules.
 https://developer.android.com/guide/topics/resources/string-resource#Plurals
 
 It is not big issue, but it would be nice to have it correctly. -->
@@ -1980,7 +1980,7 @@ It is not big issue, but it would be nice to have it correctly. -->
     <string name="quest_openingHours_off_day">"Zavřeno"</string>
     <string name="quest_openingHours_unspecified_range">"Neurčeno"</string>
 
-    <!-- Could this be translated as: 
+    <!-- Could this be translated as:
 Is the situation on this cycleway still the same? -->
     <string name="quest_cycleway_resurvey_title">"Je to zde stále aktulální situace cyklostezky?"</string>
     <string name="pref_title_resurvey_intervals">"Intervaly pro ověřování"</string>
@@ -2519,4 +2519,19 @@ sorted alphabetically by title -->
     <string name="quest_air_pump_bicycle_title">"Je zde pro všechny k dispozici fungující pumpa na kolo?"</string>
     <string name="quest_air_pump_compressor_title">"Je tu k dispozici kompresor?"</string>
     <string name="quest_step_count_stile_hint">"Počet schodů k dosažení vrcholu. Pokud je počet schodů na každé straně jiný, uveďte vyšší číslo."</string>
+    <string name="quest_facade_title">What is the material of the building facade?</string>
+    <string name="quest_facade_value_cement_block">Cement blocks</string>
+    <string name="quest_facade_value_brick">Bricks</string>
+    <string name="quest_facade_value_plaster">Plaster</string>
+    <string name="quest_facade_value_stone">Stones</string>
+    <string name="quest_facade_value_mud">Dried mud</string>
+    <string name="quest_facade_value_concrete">Concrete</string>
+    <string name="quest_color_title">What is the colour of the building facade?</string>
+    <string name="quest_facade_value_wood">Wood</string>
+    <string name="quest_facade_value_metal">Metal</string>
+    <string name="quest_facade_value_glass">Glass</string>
+    <string name="quest_buildingColor_answer_multiple_color">It has multiple colours</string>
+    <string name="quest_building_answer_multiple_color_description">Simply select the main colour of this building facade</string>
+    <string name="quest_buildingFacade_answer_multiple_material">It has multiple material</string>
+    <string name="quest_buildingFacade_answer_multiple_material_description">Simply select the main material of this building façade. E.g.  if the walls of a building are made of cement blocks, plastered and painted, then the appropriate answer would be plaster</string>
 </resources>

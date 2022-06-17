@@ -1586,4 +1586,19 @@ Herhangi bir şerit otobüs için ayrılmışsa, lütfen bunun yerine bir not b�
     <string name="short_no_answer_on_button">"Hayır"</string>
     <string name="pref_title_language_select">"Dil seç"</string>
     <string name="language_default">"Sistem varsayılanı"</string>
+    <string name="quest_facade_title">What is the material of the building facade?</string>
+    <string name="quest_facade_value_cement_block">Cement blocks</string>
+    <string name="quest_facade_value_brick">Bricks</string>
+    <string name="quest_facade_value_plaster">Plaster</string>
+    <string name="quest_facade_value_stone">Stones</string>
+    <string name="quest_facade_value_mud">Dried mud</string>
+    <string name="quest_facade_value_concrete">Concrete</string>
+    <string name="quest_color_title">What is the colour of the building facade?</string>
+    <string name="quest_facade_value_wood">Wood</string>
+    <string name="quest_facade_value_metal">Metal</string>
+    <string name="quest_facade_value_glass">Glass</string>
+    <string name="quest_buildingColor_answer_multiple_color">It has multiple colours</string>
+    <string name="quest_building_answer_multiple_color_description">Simply select the main colour of this building facade</string>
+    <string name="quest_buildingFacade_answer_multiple_material">It has multiple material</string>
+    <string name="quest_buildingFacade_answer_multiple_material_description">Simply select the main material of this building façade. E.g.  if the walls of a building are made of cement blocks, plastered and painted, then the appropriate answer would be plaster</string>
 </resources>

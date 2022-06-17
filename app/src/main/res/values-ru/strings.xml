@@ -1729,7 +1729,7 @@
     <string name="quest_bicycle_parking_access_title2">"Кто может парковать здесь свой велосипед? Парковка может быть платной или бесплатной."</string>
     <string name="quest_playground_access_title2">"Кто может использовать эту игровую площадку?"</string>
     <string name="quest_sidewalk_answer_none_title">"Отметить тротуары как отсутствующие"</string>
-    <string name="quest_side_select_interface_explanation">"Коснитесь одной стороны и выберите нужный ответ. 
+    <string name="quest_side_select_interface_explanation">"Коснитесь одной стороны и выберите нужный ответ.
 Сделайте то же самое для другой стороны, если она есть."</string>
 
     <!-- AR Measure screen -->
@@ -1820,4 +1820,19 @@ sorted alphabetically by title -->
     <string name="quest_toiletAvailability_title">"Есть ли в этом месте туалеты?"</string>
     <string name="quest_wheelchairAccess_toiletsPart_title2">"Доступен ли туалет в этом месте для инвалидных колясок?"</string>
     <string name="quest_cycleway_confirmation_oneway_for_cyclists_too">"Вы уверены, что велосипедистам нельзя ездить по этой улице с односторонним движением в обоих направлениях?  Если сомневаетесь, проверьте, есть ли знак в конце улицы."</string>
+    <string name="quest_facade_title">"Из какого материал изготовлен фасада здания (внешний слой стены)?"</string>
+    <string name="quest_facade_value_cement_block">"цементных блоков"</string>
+    <string name="quest_facade_value_brick">"кирпичи"</string>
+    <string name="quest_facade_value_plaster">"штукатурка стен"</string>
+    <string name="quest_facade_value_stone">"камни"</string>
+    <string name="quest_facade_value_mud">"глинобитных"</string>
+    <string name="quest_facade_value_concrete">"бетонный"</string>
+    <string name="quest_color_title">"Какого цвета фасад здания (внешний слой стены)?"</string>
+    <string name="quest_facade_value_wood">"дерево"</string>
+    <string name="quest_facade_value_metal">"металл"</string>
+    <string name="quest_facade_value_glass">"стекло"</string>
+    <string name="quest_buildingColor_answer_multiple_color">"Он имеет несколько цветов"</string>
+    <string name="quest_building_answer_multiple_color_description">"Выберите основной цвет фасада этого здания"</string>
+    <string name="quest_buildingFacade_answer_multiple_material">"Он состоит из множества материалов"</string>
+    <string name="quest_buildingFacade_answer_multiple_material_description">"Выберите основной материал фасада этого здания. Например, если стены здания сделаны из цементных блоков, оштукатурены и покрашены, то правильным ответом будет штукатурка."</string>
 </resources>

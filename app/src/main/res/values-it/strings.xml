@@ -117,12 +117,12 @@ La modifica anonima in OpenStreetMap non è possibile, pertanto tutte le modific
 
 &lt;b&gt;Posizione geografica&lt;/b&gt;&lt;br/&gt;
 &lt;p&gt;
-Questa app non condivide la tua posizione GPS con nessuno. Essa viene utilizzata solo per la ricerca automatica di missioni nei tuoi dintorni (e quindi scaricare) e per centrare la mappa dove ti trovi. 
+Questa app non condivide la tua posizione GPS con nessuno. Essa viene utilizzata solo per la ricerca automatica di missioni nei tuoi dintorni (e quindi scaricare) e per centrare la mappa dove ti trovi.
 &lt;/p&gt;
 
 &lt;p&gt;&lt;b&gt; Utilizzo dei dati&lt;/b&gt;&lt;/p&gt;
 &lt;p&gt;
-Come accennato, l’applicazione comunica direttamente con l’infrastruttura OSM. 
+Come accennato, l’applicazione comunica direttamente con l’infrastruttura OSM.
 Tuttavia, prima di caricare le modifiche, l’app fa una verifica su un &lt;a href=\"https://www.westnordost.de/streetcomplete/banned_versions.txt\"&gt;semplice file di testo&lt;/a&gt; nel mio server per controllare se le è stato vietato il caricamento di modifiche. Si tratta di una misura precauzionale che impedisce ad alcune versioni dell’app contenenti bug critici di danneggiare i dati OSM&lt;br/&gt;
 &lt;/p&gt;"</string>
     <string name="autosync_on">"Attiva"</string>
@@ -1392,4 +1392,19 @@ sorted alphabetically by title -->
     <string name="quest_wheelchairAccess_toiletsPart_title2">"Il bagno di questo posto è accessibile alle sedie a rotelle?"</string>
     <string name="quest_cycleway_confirmation_oneway_for_cyclists_too">"Sei sicuro che i ciclisti non possono circolare in questa strada a senso unico in entrambe le direzioni? Se hai dubbi, controlla se c'è la segnaletica.
 "</string>
+    <string name="quest_facade_title">"Qual è il materiale di rivestimento della facciata (strato esterno della parete) dell'edificio?"</string>
+    <string name="quest_facade_value_cement_block">"Blocchi di cemento"</string>
+    <string name="quest_facade_value_brick">"Mattoni"</string>
+    <string name="quest_facade_value_plaster">"Gesso"</string>
+    <string name="quest_facade_value_stone">"Pietre"</string>
+    <string name="quest_facade_value_mud">"Fango secco"</string>
+    <string name="quest_facade_value_concrete">"Calcestruzzo"</string>
+    <string name="quest_color_title">"Qual è il colore della facciata (strato esterno della parete) dell'edificio?"</string>
+    <string name="quest_facade_value_wood">"Legno"</string>
+    <string name="quest_facade_value_metal">"Metallo"</string>
+    <string name="quest_facade_value_glass">"Vetro"</string>
+    <string name="quest_buildingColor_answer_multiple_color">It has multiple colours</string>
+    <string name="quest_building_answer_multiple_color_description">Simply select the main colour of this building facade</string>
+    <string name="quest_buildingFacade_answer_multiple_material">It has multiple material</string>
+    <string name="quest_buildingFacade_answer_multiple_material_description">Simply select the main material of this building façade. E.g.  if the walls of a building are made of cement blocks, plastered and painted, then the appropriate answer would be plaster</string>
 </resources>

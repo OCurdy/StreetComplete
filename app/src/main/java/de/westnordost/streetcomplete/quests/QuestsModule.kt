@@ -27,6 +27,7 @@ import de.westnordost.streetcomplete.quests.bike_parking_type.AddBikeParkingType
 import de.westnordost.streetcomplete.quests.board_type.AddBoardType
 import de.westnordost.streetcomplete.quests.bollard_type.AddBollardType
 import de.westnordost.streetcomplete.quests.bridge_structure.AddBridgeStructure
+import de.westnordost.streetcomplete.quests.building_color.AddBuildingColor
 import de.westnordost.streetcomplete.quests.building_levels.AddBuildingLevels
 import de.westnordost.streetcomplete.quests.building_type.AddBuildingType
 import de.westnordost.streetcomplete.quests.building_underground.AddIsBuildingUnderground
@@ -145,6 +146,8 @@ import de.westnordost.streetcomplete.quests.wheelchair_access.AddWheelchairAcces
 import de.westnordost.streetcomplete.quests.wheelchair_access.AddWheelchairAccessToiletsPart
 import de.westnordost.streetcomplete.quests.width.AddCyclewayWidth
 import de.westnordost.streetcomplete.quests.width.AddRoadWidth
+import de.westnordost.streetcomplete.quests.facade.AddFacadeBuilding
+
 import de.westnordost.streetcomplete.screens.measure.ArSupportChecker
 import org.koin.core.qualifier.named
 import org.koin.dsl.module
@@ -202,8 +205,17 @@ fun questTypeRegistry(
     element is based on wrong data while the note is not resolved */
     OsmNoteQuestType,
 
-    /* ↓ 1. solvable from a distance or while passing by -----------------------------------  */
+    /* ↓ 0. quests for our own need concerning buildings -----------------------------------  */
 
+    // buildings
+    AddBuildingType(),
+    AddBuildingLevels(),
+    AddFacadeBuilding(),
+    AddBuildingColor(),
+    AddRoofShape(countryInfos, countryBoundariesFuture),
+
+    /* ↓ 1. solvable from a distance or while passing by -----------------------------------  */
+/*
     // bus stop quests
     AddBusStopShelter(),  // used by at least OsmAnd
     AddBenchStatusOnBusStop(), // can be seen from across the street
@@ -429,13 +441,11 @@ whether the postbox is still there in countries in which it is enabled */
     *  for the sign which is one reason why it is disabled by default */
     AddMaxSpeed(),
 
-    // buildings
-    AddBuildingType(),
-    AddBuildingLevels(),
-    AddRoofShape(countryInfos, countryBoundariesFuture),
+
 
     AddStepCount(), // can only be gathered when walking along this way, also needs the most effort and least useful
 
     /* at the very last because it can be difficult to ascertain during day. used by OsmAnd if "Street lighting" is enabled. (Configure map, Map rendering, Details) */
     AddWayLit(),
+*/
 ))

@@ -1666,4 +1666,19 @@ sorted alphabetically by title -->
     <string name="quest_baby_changing_table_title2">"이곳에 기저귀 갈이대가 있나요?"</string>
     <string name="quest_smoking_title2">"이곳에서 흡연이 가능한가요?"</string>
     <string name="quest_cycleway_confirmation_oneway_for_cyclists_too">"이 일방통행로에서 자전거 양방향 통행이 불가능한 게 맞나요? 확실하지 않으면, 도로 끝에 표지판이 있는지 확인하세요."</string>
+    <string name="quest_facade_title">What is the material of the building facade?</string>
+    <string name="quest_facade_value_cement_block">Cement blocks</string>
+    <string name="quest_facade_value_brick">Bricks</string>
+    <string name="quest_facade_value_plaster">Plaster</string>
+    <string name="quest_facade_value_stone">Stones</string>
+    <string name="quest_facade_value_mud">Dried mud</string>
+    <string name="quest_facade_value_concrete">Concrete</string>
+    <string name="quest_color_title">What is the colour of the building facade?</string>
+    <string name="quest_facade_value_wood">Wood</string>
+    <string name="quest_facade_value_metal">Metal</string>
+    <string name="quest_facade_value_glass">Glass</string>
+    <string name="quest_buildingColor_answer_multiple_color">It has multiple colours</string>
+    <string name="quest_building_answer_multiple_color_description">Simply select the main colour of this building facade</string>
+    <string name="quest_buildingFacade_answer_multiple_material">It has multiple material</string>
+    <string name="quest_buildingFacade_answer_multiple_material_description">Simply select the main material of this building façade. E.g.  if the walls of a building are made of cement blocks, plastered and painted, then the appropriate answer would be plaster</string>
 </resources>

@@ -34,7 +34,7 @@
     <application
         android:name="de.westnordost.streetcomplete.StreetCompleteApplication"
         android:allowBackup="false"
-        android:icon="@mipmap/ic_launcher"
+        android:icon="@drawable/ic_buildingcomplete"
         android:label="@string/app_name"
         android:theme="@style/AppTheme"
         android:supportsRtl="true">

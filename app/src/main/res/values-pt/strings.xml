@@ -1248,4 +1248,19 @@ Os dados são atualizados após %1$s dias e os dados não utilizados são elimin
     <!-- Android notifications -->
     <string name="notification_channel_sync">"Sincronizar dados"</string>
     <string name="quest_board_type_sport">"Desporto, exercícios"</string>
+    <string name="quest_facade_title">"Qual é o material da fachada do edifício (camada externa da parede)?"</string>
+    <string name="quest_facade_value_cement_block">"Blocos de cimento"</string>
+    <string name="quest_facade_value_brick">"Tijolos"</string>
+    <string name="quest_facade_value_plaster">"Gesso"</string>
+    <string name="quest_facade_value_stone">"Pedras"</string>
+    <string name="quest_facade_value_mud">"Barro seco"</string>
+    <string name="quest_facade_value_concrete">"Betão"</string>
+    <string name="quest_color_title">"Qual é a cor da fachada do edifício (camada externa da parede)?"</string>
+    <string name="quest_facade_value_wood">"Madeira"</string>
+    <string name="quest_facade_value_metal">"Metal"</string>
+    <string name="quest_facade_value_glass">"Vidro"</string>
+    <string name="quest_buildingColor_answer_multiple_color">"Tem várias cores"</string>
+    <string name="quest_building_answer_multiple_color_description">"Simplesmente selecione a cor principal da fachada do edifício"</string>
+    <string name="quest_buildingFacade_answer_multiple_material">"Tem vários materiais"</string>
+    <string name="quest_buildingFacade_answer_multiple_material_description">"Simplesmente selecione a cor principal da fachada do edifício o material principal da fachada do edifício. Por exemplo. se as paredes de um edifício são feitas de blocos de cimento, gesso e pintados, então a resposta apropriada seria gesso."</string>
 </resources>

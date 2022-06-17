@@ -1358,4 +1358,19 @@ Datele sunt actualizate după %1$s zile, iar datele neutilizate sunt șterse dup
 
     <!-- Fuzzy -->
     <string name="quest_barrier_bicycle_type_single">"Trecere între două bariere"</string>
+    <string name="quest_facade_title">"Care este materialul fațadei clădirii (stratului exterior al peretelui)?"</string>
+    <string name="quest_facade_value_cement_block">"Blocuri de ciment"</string>
+    <string name="quest_facade_value_brick">"Cărămidă"</string>
+    <string name="quest_facade_value_plaster">"Ipsos"</string>
+    <string name="quest_facade_value_stone">"Piatră"</string>
+    <string name="quest_facade_value_mud">"Lut"</string>
+    <string name="quest_facade_value_concrete">"Beton"</string>
+    <string name="quest_color_title">"Care este culoarea fațadei clădirii (stratului exterior al peretelui)?"</string>
+    <string name="quest_facade_value_wood">"Lemn"</string>
+    <string name="quest_facade_value_metal">"Metal"</string>
+    <string name="quest_facade_value_glass">"Sticlă"</string>
+    <string name="quest_buildingColor_answer_multiple_color">"Are mai multe culori (Are diferite culori)"</string>
+    <string name="quest_building_answer_multiple_color_description">"Selectați culoarea principală a fațadei clădirii"</string>
+    <string name="quest_buildingFacade_answer_multiple_material">"Are mai multe materiale (are materiale diferite)"</string>
+    <string name="quest_buildingFacade_answer_multiple_material_description">"Selectați materialul principal al fațadei clădirii. Ex.: dacă pereții unei clădiri sunt făcuți din blocuri de ciment, tencuite și vopsite, atunci răspunsul potrivit ar fi tencuială."</string>
 </resources>

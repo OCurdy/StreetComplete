@@ -143,7 +143,7 @@
     <string name="quest_openingHours_answer_seasonal_opening_hours">"Beda sesuai bulan"</string>
     <string name="quest_openingHours_answer_no_regular_opening_hours">"Tidak ada jam buka yang tetap"</string>
     <string name="quest_openingHours_comment_title">"Jelaskan jam buka"</string>
-    <string name="quest_openingHours_comment_description">"Ringkaskan, sebaiknya gunakan kata-kata dari tanda, 
+    <string name="quest_openingHours_comment_description">"Ringkaskan, sebaiknya gunakan kata-kata dari tanda,
 semisal \"sesuai janji\". Jika tidak ada tandanya bukan berarti tidak ada jam buka reguler."</string>
     <string name="quest_roofShape_title">"Apa bentuk dasar dari atap bangunan ini?"</string>
 
@@ -181,7 +181,7 @@ Aplikasi ini tidak membagi lokasi GPSmu dengan siapapun. Ini digunakan hanya unt
 
 &lt;p&gt;&lt;b&gt;Penggunaan Data&lt;/b&gt;&lt;/p&gt;
 &lt;p&gt;
-Seperti yang disebutkan, aplikasi ini langsung berkomunikasi dengan infrastruktur OSM. 
+Seperti yang disebutkan, aplikasi ini langsung berkomunikasi dengan infrastruktur OSM.
 Tetapi, sebelum mengunggah perubahan, aplikasi mengecek &lt;a href=\"https://www.westnordost.de/streetcomplete/banned_versions.txt\"&gt;teks file sederhana&lt;/a&gt; di serverku kalau saja versi aplikasi sudah dilarang untuk mengunggah perubahan. Ini adalah langkah pencegahan untuk menjaga versi aplikasi yang ternyata mempunyai bug kritis yang dapat merusak data OSM.&lt;/p&gt;
 "</string>
 
@@ -817,7 +817,7 @@ Sebagian berarti kursi roda dapat masuk dan menggunakannya, tapi tidak ada pegan
     <!-- Fuzzy -->
     <string name="quest_cyclewayPartSurface_title">"Apa permukaan di jalan sepeda ini?"</string>
     <string name="quest_generic_answer_differs_along_the_way">"Berbeda sepanjang jalan…"</string>
-    <string name="quest_split_way_description">"Jika berbeda, langkah pertama adalah membagi jalannya. Kemudian, pencarian bisa dijawab secara terpisah. 
+    <string name="quest_split_way_description">"Jika berbeda, langkah pertama adalah membagi jalannya. Kemudian, pencarian bisa dijawab secara terpisah.
 Pisah sekarang?"</string>
     <string name="quest_split_way_tutorial">"Sentuh pada titik jalan di mana jawabannya beda. Harap agar seakurat mungkin, kamu bisa memperbesar."</string>
     <string name="quest_split_way_too_imprecise">"Harap perbesar lagi"</string>
@@ -1128,4 +1128,19 @@ Cat: aplikasi ini menyanyakan nomor rumah pada bangunan setelah tipenya sudah di
     <string name="no_camera_app">"Tidak ada aplikasi kamera yang tersedia"</string>
     <string name="quest_camera_type_title">"Apa jenis kamera pengawas ini?"</string>
     <string name="language_default">"Default Sistem"</string>
+    <string name="quest_facade_title">"Material apakah yang digunakan pada bagian muka bangunan (pada lapisan luar dari dinding bangunan)?"</string>
+    <string name="quest_facade_value_cement_block">"Batako"</string>
+    <string name="quest_facade_value_brick">"Batu bata"</string>
+    <string name="quest_facade_value_plaster">"Plester"</string>
+    <string name="quest_facade_value_stone">"Batu"</string>
+    <string name="quest_facade_value_mud">"Lumpur kering"</string>
+    <string name="quest_facade_value_concrete">"Beton"</string>
+    <string name="quest_color_title">"Apakah warna dari bagian muka bangunan (pada lapisan luar dari dinding bangunan)?"</string>
+    <string name="quest_facade_value_wood">"Kayu"</string>
+    <string name="quest_facade_value_metal">Metal</string>
+    <string name="quest_facade_value_glass">"Kaca"</string>
+    <string name="quest_buildingColor_answer_multiple_color">It has multiple colours</string>
+    <string name="quest_building_answer_multiple_color_description">Simply select the main colour of this building facade</string>
+    <string name="quest_buildingFacade_answer_multiple_material">It has multiple material</string>
+    <string name="quest_buildingFacade_answer_multiple_material_description">Simply select the main material of this building façade. E.g.  if the walls of a building are made of cement blocks, plastered and painted, then the appropriate answer would be plaster</string>
 </resources>

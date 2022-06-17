@@ -1719,7 +1719,7 @@ Til sidst: husk på at passe på dig selv: Vær opmærksom på dine omgivelser o
     <string name="achievement_first_edit_title">"Første opgave løst"</string>
     <string name="achievement_first_edit_description">"Velkommen til OpenStreetMap fællesskabet! På din profilside kan du se mere information om hver type af opgaver du har løst."</string>
     <string name="achievement_surveyor_title">"Undersøger"</string>
-    <string name="achievement_surveyor_solved_X">"Du har løst %d opgaver. Fortsæt endelig med at låse op for flere 
+    <string name="achievement_surveyor_solved_X">"Du har løst %d opgaver. Fortsæt endelig med at låse op for flere
 præsentationer der indeholder links til OSM og andre kortorienteret apps og projekter!"</string>
     <string name="achievement_regular_title">"Regelmæssigt"</string>
     <string name="achievement_regular_description">"Du har bidraget %d dage til OSM med denne app. Regelmæssige bidragsydere er grundstenen i OSM, tak for din indsats ❤"</string>
@@ -2145,4 +2145,19 @@ fortrolighedserklæring&lt;/a&gt;  for mere information.&lt;/p&gt;"</string>
     <string name="quest_smoothness_description_impassable">"Uegnet for køretøjer, kan kun passeres til fods"</string>
     <string name="quest_smoothness_obstacle">"Der er en forhindring"</string>
     <string name="achievement_lifesaver_title">"Livredder"</string>
+    <string name="quest_facade_title">What is the material of the building facade?</string>
+    <string name="quest_facade_value_cement_block">Cement blocks</string>
+    <string name="quest_facade_value_brick">Bricks</string>
+    <string name="quest_facade_value_plaster">Plaster</string>
+    <string name="quest_facade_value_stone">Stones</string>
+    <string name="quest_facade_value_mud">Dried mud</string>
+    <string name="quest_facade_value_concrete">Concrete</string>
+    <string name="quest_color_title">What is the colour of the building facade?</string>
+    <string name="quest_facade_value_wood">Wood</string>
+    <string name="quest_facade_value_metal">Metal</string>
+    <string name="quest_facade_value_glass">Glass</string>
+    <string name="quest_buildingColor_answer_multiple_color">It has multiple colours</string>
+    <string name="quest_building_answer_multiple_color_description">Simply select the main colour of this building facade</string>
+    <string name="quest_buildingFacade_answer_multiple_material">It has multiple material</string>
+    <string name="quest_buildingFacade_answer_multiple_material_description">Simply select the main material of this building façade. E.g.  if the walls of a building are made of cement blocks, plastered and painted, then the appropriate answer would be plaster</string>
 </resources>
